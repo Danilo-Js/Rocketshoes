@@ -34,7 +34,7 @@
 
 <p align="center">
   <img alt="Android" width="300" src="">
-  <img alt="Web" width="600" height="300" src="">
+  <img alt="Web" width="600" height="300" src="https://github.com/Danilo-Js/Rocketshoes/blob/master/ReadmeGIFS/Web.gif">
   <img alt="iOS" width="287" src="">
 </p>
 
