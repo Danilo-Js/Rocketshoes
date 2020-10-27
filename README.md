@@ -32,34 +32,15 @@
 
 </br>
 
+<p align="center">This is the Web version. The project will receive a Mobile version later.</p>
 <p align="center">
-  <img alt="Android" width="300" src="">
   <img alt="Web" width="600" height="300" src="https://github.com/Danilo-Js/Rocketshoes/blob/master/ReadmeGIFS/Web.gif">
-  <img alt="iOS" width="287" src="">
 </p>
 
 ## :rocket: Technologies
 
 This project was developed with the following technologies:
 -  [VS Code][vc] with [EditorConfig][vceditconfig], [ESLint][vceslint] and [Prettier][vcprettier]
-
-#### Mobile
--  UNDONE
--  [React Navigation 4.x](https://reactnavigation.org/docs/4.x/getting-started/)
-    - react-navigation-stack
--  [React-Native](https://facebook.github.io/react-native/)
--  [Gesture Handler](https://kmagiera.github.io/react-native-gesture-handler/)
--  [MaskedView](https://github.com/react-native-community/react-native-masked-view)
--  [AsyncStorage](https://github.com/react-native-community/async-storage)
--  [Styled-components](https://www.styled-components.com/)
--  [Axios](https://www.npmjs.com/package/react-native-axios)
--  [PropTypes](https://github.com/facebook/prop-types)
--  [Reanimated](https://github.com/software-mansion/react-native-reanimated)
--  [Safe-Area-Context](https://github.com/th3rdwave/react-native-safe-area-context)
--  [Screens](https://github.com/software-mansion/react-native-screens)
--  [Vector-Icons](https://github.com/oblador/react-native-vector-icons)
--  [WebView](https://github.com/react-native-community/react-native-webview)
--  [Reactotron](https://github.com/infinitered/reactotron)
 
 #### Website
 -  [ReactJS](https://reactjs.org)
