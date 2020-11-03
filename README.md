@@ -32,7 +32,6 @@
 
 </br>
 
-<p align="center">This is the Web version. The project will receive a Mobile version later.</p>
 <p align="center">
   <img alt="Web" width="600" height="300" src="https://github.com/Danilo-Js/Rocketshoes/blob/master/ReadmeGIFS/Web.gif">
 </p>
@@ -61,7 +60,7 @@ This project was developed with the following technologies:
 
 ## :information_source: How To Use
 
-To clone and run this application, you'll need [React](https://reactjs.org/docs/getting-started.html) & [React Native](https://reactnative.dev/docs/getting-started) installed on your computer. From your command line:
+To clone and run this application, you'll need [React](https://reactjs.org/docs/getting-started.html) installed on your computer. From your command line:
 
 ```bash
 # Clone this repository
@@ -69,13 +68,9 @@ $ git clone https://github.com/Danilo-Js/Rocketshoes.git
 
 # Go into the repository
 $ cd Rocketshoes
-$ cd Mobile | cd Web
 
 # Install dependencies
 $ yarn install
-
-# Run the mobile app
-$ npx react-native run-ios | npx react-native run-android
 
 # Run the website
 $ json-server server.json -p 3333
