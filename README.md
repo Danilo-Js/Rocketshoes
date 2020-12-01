@@ -18,10 +18,18 @@
   <a href="https://img.shields.io/github/repo-size/Danilo-Js/Rocketshoes/commits/master">
     <img alt="Repository size" src="https://img.shields.io/github/repo-size/Danilo-Js/Rocketshoes">
   </a>
+</p>
 
-  <a href="https://img.shields.io/github/issues/Danilo-Js/Rocketshoes/issues">
+<p align="center">
+   <a href="https://img.shields.io/github/issues/Danilo-Js/Rocketshoes/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/Danilo-Js/Rocketshoes">
   </a>
+  
+  <img alt="Repository forks" src="https://img.shields.io/github/forks/Danilo-Js/Rocketshoes">
+  
+  <img alt="Repository stars" src="https://img.shields.io/github/stars/Danilo-Js/Rocketshoes">
+  
+  <img alt="Repository license" src="https://img.shields.io/github/license/Danilo-Js/Rocketshoes">
 </p>
 
 <p align="center" direction="row">
