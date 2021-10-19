@@ -10,10 +10,6 @@
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Danilo-Js/Rocketshoes">
 
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Danilo-Js/Rocketshoes">
-
-  <a href="https://www.codacy.com/gh/Danilo-Js/Rocketshoes/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Danilo-Js/Rocketshoes&amp;utm_campaign=Badge_Grade">
-    <img alt="Codacy grade" src="https://app.codacy.com/project/badge/Grade/4f3d79d5614e482ba0c7c6d467d35817">
-  </a>
   
   <a href="https://img.shields.io/github/repo-size/Danilo-Js/Rocketshoes/commits/master">
     <img alt="Repository size" src="https://img.shields.io/github/repo-size/Danilo-Js/Rocketshoes">
